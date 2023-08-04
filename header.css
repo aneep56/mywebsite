@@ -93,7 +93,10 @@ text-transform: uppercase;
 padding: 10px 15px;
 }
 header ul li a:hover{
-border-bottom: 2px solid cadetblue;
+background-color: white;
+color: #1a202c;
+border-radius: 0 10px;
+transition: 0.3s;
 }
 header .menu{
 font-size: 1.5em;
